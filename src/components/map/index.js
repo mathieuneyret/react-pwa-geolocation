@@ -40,7 +40,7 @@ export default function MapLeaflet() {
 
     return (
         <MapContainer
-            center={[47.658236, -2.760847]}
+            center={[45.7500814,4.7490102]}
             zoom={13}
             scrollWheelZoom
             style={{ height: "50vh" }}
