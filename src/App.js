@@ -18,7 +18,7 @@ function App() {
   return (
       <div className="App">
         <h1>Géolocalisation</h1>
-        <div class="map">
+        <div className="map">
           <MapLeaflet />
         </div>
         <ul>
